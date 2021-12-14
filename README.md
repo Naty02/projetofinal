@@ -1,4 +1,4 @@
-## Projeto Final;
+## Projeto Final
 Nome: Natalie Gonçlves da Silva
 Professores: Diego Neri de Souza Felix & Ermogenes Daniel Palacio
 Instituição: Etec Adolpho Berezin
