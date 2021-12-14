@@ -8,7 +8,7 @@ Repositório: https://github.com/Naty02/projetofinal.git
 ## Introdução
 O objetivo desse exercício é criar um software. Compartilhar o código-fonte no GitHub e publicar o repositório utilizando GitHub Pages. Incluir um link de download, imagens do programa sendo executado e um breve manual do usuário.
 
-# Especificações dadas:
+## Especificações dadas:
 O programa deverá conter um menu de opções selecionáveis pelo usuário.
 Crie opções que permitam que o usuário efetue operações matemáticas (o usuário digita os números desejados, e o programa exibe o resultado):
 As quatro operações aritméticas básicas (soma, subtração, multiplicação e divisão);
