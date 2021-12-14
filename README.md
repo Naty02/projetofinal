@@ -1,9 +1,9 @@
-# Projeto Final;
-Nome: Natalie Gonçlves da Silva;
-Professores: Diego Neri de Souza Felix & Ermogenes Daniel Palacio;
-Instituição: Etec Adolpho Berezin;
-Curso: Técnico de Informática;
-Repositório: https://github.com/Naty02/projetofinal.git.
+## Projeto Final;
+Nome: Natalie Gonçlves da Silva
+Professores: Diego Neri de Souza Felix & Ermogenes Daniel Palacio
+Instituição: Etec Adolpho Berezin
+Curso: Técnico de Informática
+Repositório: https://github.com/Naty02/projetofinal.git
 
 ## Introdução
 O objetivo desse exercício é criar um software. Compartilhar o código-fonte no GitHub e publicar o repositório utilizando GitHub Pages. Incluir um link de download, imagens do programa sendo executado e um breve manual do usuário.
