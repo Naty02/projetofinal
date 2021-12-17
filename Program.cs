@@ -86,6 +86,7 @@ namespace projetofinal
                     break;
                 case 8:
                     Console.WriteLine("Sobre");
+                    exibeSobre();
                     break;
                 case 0:
                     Console.WriteLine("Muito obrigado por utilizar o programa. Você sempre será bem vindo, então apareça mais vezes!!!");
@@ -177,8 +178,12 @@ namespace projetofinal
             Console.WriteLine($"{tempC}°C equivalente a {tempF}°F");
         }
 
+        private static void exibeSobre()
         {
-            Console.WriteLine("Natalie Gonçalves da Silva")
+            Console.WriteLine("Natalie Gonçalves da Silva");
+            Console.WriteLine("Etec Adolpho Berezin");
+            Console.WriteLine("Programação");
+            Console.WriteLine("Repositório: ");
         }
     }
 }
